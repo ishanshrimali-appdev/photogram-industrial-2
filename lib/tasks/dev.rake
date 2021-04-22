@@ -1,3 +1,4 @@
+
 task sample_data: :environment do
   p "Creating sample data"
 
